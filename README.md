@@ -33,9 +33,10 @@
 						<nav>
 							<ul>
 								<li><a href="#intro">Introduction</a></li>
-								<li><a href="#work">Midhun64, yehia Call me after the class</a></li>
-								<li><a href="#about">shiva</a></li>
-								<li><a href="#contact">pradeep</a></li>
+								<li><a href="#work">Midhun64, Yehia Call me after the class</a></li>
+								<li><a href="#about">Shiva</a></li>
+								<li><a href="#contact">P
+radeep</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
